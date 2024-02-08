@@ -1,0 +1,1 @@
+$execute unless score @s ctrlf.effect.$(effect) matches $(duration).. run scoreboard players set @s ctrlf.effect.$(effect) $(duration)
