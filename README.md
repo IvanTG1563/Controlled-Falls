@@ -1,7 +1,7 @@
 # Controlled Falls
 Controlled Falls is a Data Pack library that makes controlling specific entity fall damage easier using the `generic.fall_damage_multiplier` attribute.
 
-`Minecraft Version: Snapshot 24w06a`
+`Minecraft Version: Snapshot 24w06a or higher`
 
 ## Effects
 To give an effect use this function
